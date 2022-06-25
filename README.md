@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bozhidarsot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bozhidarsot" height="30" width="40" /></a>
-<a href="https://fb.com/bojidar sotirov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bojidar sotirov" height="30" width="40" /></a>
+<a href="[https://fb.com/bojidar sotirov](https://www.facebook.com/bojidar.sotirov.14/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bojidar sotirov" height="30" width="40" /></a>
 <a href="https://instagram.com/bojidar.06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bojidar.06" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/bojidar06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bojidar06" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/bozhidarsotirov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bozhidarsotirov" height="30" width="40" /></a>
