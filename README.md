@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bozhidar Sotirov</h1>
-<h3 align="center">A passionate developer from Bulgaria.</h3>
+<h3 align="center">A Passionate Front-End Developer From Bulgaria.</h3>
 
 - 🌱 I’m currently learning **JavaScript and React**
 
