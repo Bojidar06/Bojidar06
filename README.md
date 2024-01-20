@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bozhidar Sotirov</h1>
 <h3 align="center">A Passionate Front-End Developer From Bulgaria.</h3>
 
-- 🌱 I’m currently learning **JavaScript and React**
+- 🌱 I am currently a full time content creator posting daily on **IG, TT and YT**
 
-- 📝 I regularly write articles on [https://bojidar06.github.io/bojkos-thoughts/](https://bojidar06.github.io/bojkos-thoughts/)
-
-- 📫 How to reach me **bojkoburgas@abv.bg**
+- 📫 Business Enquiries **bojidarburgas@abv.bg**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bozhidarsot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bozhidarsot" height="30" width="40" /></a>
-<a href="https://www.facebook.com/bojidar.sotirov.14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bojidar sotirov" height="30" width="40" /></a>
-<a href="https://instagram.com/bojidar.06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bojidar.06" height="30" width="40" /></a>
+<a href="https://instagram.com/b_sotirovv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="b_sotirovv" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC9LZhsemMn57OSl4PMvy3Nw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bozhidar sotirov" height="30" width="40" /></a>
 </p>
 
